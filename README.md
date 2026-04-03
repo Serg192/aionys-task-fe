@@ -11,7 +11,7 @@ It includes end-to-end tests using **Cypress**.
 
 ```bash
 git clone https://github.com/Serg192/aionys-task-fe.git
-cd <your-frontend-folder>
+cd aionys-task-fe
 ```
 
 2. **Install dependencies**
@@ -43,3 +43,5 @@ Run Cypress E2E tests:
 ```bash
 npm run test:e2e
 ```
+
+while the web server is running.
