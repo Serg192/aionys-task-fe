@@ -1,0 +1,15 @@
+{
+  "save": "Save",
+  "confirm": "Confirm",
+  "cancel": "Cancel",
+  "create_note": "Create Note",
+  "edit_note": "Edit Note",
+  "title": "Title",
+  "content": "Content",
+  "loading": "Loading...",
+  "loading_err": "Error loading notes",
+  "created": "Created",
+  "edited": "Edited",
+  "confirm_delete_note": "Do you really want to delete this note?",
+  "no_notes": "No notes yet. Try adding one"
+}
